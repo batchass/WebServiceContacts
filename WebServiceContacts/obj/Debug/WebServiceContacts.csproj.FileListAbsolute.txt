@@ -1,0 +1,8 @@
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\bin\WebServiceContacts.dll
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\bin\WebServiceContacts.pdb
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\ResolveAssemblyReference.cache
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\WebServiceContacts.Properties.Resources.resources
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\ResGen.read.1.tlog
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\ResGen.write.1.tlog
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\WebServiceContacts.dll
+c:\users\b.lane\documents\visual studio 2010\Projects\WebServiceContacts\WebServiceContacts\obj\Debug\WebServiceContacts.pdb
