@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\srvintranet08\WebServices86" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="WebServices86" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="ProfilSrvintranet08" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WebServiceContacts.pdb" publishTime="11/08/2011 16:37:22" />
+    <file relUrl="bin/WebServiceContacts.dll" publishTime="11/08/2011 16:37:22" />
+    <file relUrl="Web.config" publishTime="11/08/2011 16:37:23" />
+    <file relUrl="ContactsService.asmx" publishTime="11/08/2011 16:00:48" />
+  </publishProfile>
+</publishData>

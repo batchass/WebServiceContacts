@@ -18,7 +18,7 @@ namespace WebServiceContacts
     {
 
         [WebMethod]
-        public string HelloWorld()
+        public string Liste()
         {
             string ret = "r:";
             SharepointServiceReference.SiteDÉquipeDataContext ws = new SharepointServiceReference.SiteDÉquipeDataContext(new Uri(Properties.Settings.Default.urlrest));
